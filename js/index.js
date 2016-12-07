@@ -8,7 +8,7 @@ $(document).ready(function(){
  
    });
  
- var api = 'https://crossorigin.me/http://api.openweathermap.org/data/2.5/weather?';
+ var api = 'http://api.openweathermap.org/data/2.5/weather?';
   var key = '&appid=607647625cfa2b9cdc42166692c8ef9f';
   var units = "&units=imperial"; //fahrenheit
   var city ="rain";
